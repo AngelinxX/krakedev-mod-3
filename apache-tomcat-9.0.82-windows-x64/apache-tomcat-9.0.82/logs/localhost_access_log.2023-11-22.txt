@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:06:52:33 -0500] "GET /ejemploweb/rws/customers/all HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:06:55:16 -0500] "GET /ejemploweb/rws/customers/all HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:21:39:26 -0500] "GET /ejemploweb/rws/customers/all HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:15:02 -0500] "GET /ejemploweb/rws/customers/buscarPorCedula/1756493378 HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:25:29 -0500] "GET /ejemploweb/rws/customers/buscarPorCedula/2 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:25:43 -0500] "GET /ejemploweb/rws/customers/buscarPorCedula/3 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:26:35 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/3 HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:26:40 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/2 HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:26:44 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/0 HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:26:55 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/0 HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:27:45 -0500] "POST /ejemploweb/rws/customers/insertar HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:28:00 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/0 HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:28:49 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/1 HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:34:13 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/1 HTTP/1.1" 200 2
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:22:38:00 -0500] "GET /ejemploweb/rws/customers/buscarPorHijos/1 HTTP/1.1" 200 113
